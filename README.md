@@ -74,7 +74,7 @@ Follow the steps below to set up and run the chat application locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/chat-application.git
+git clone https://github.com/Anurag-code107/Chat-Room-Web-Application
 cd chat-application
 ```
 
